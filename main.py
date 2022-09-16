@@ -24,5 +24,17 @@ print("d) Dennis Ritchie")
 
 # Almacenamos la respuesta del usuario en la variable "respuesta_1"
 respuesta_1 = input("\nTu respuesta: ")
-if respuesta_1 == "Bill Gates":
+if respuesta_1 == "b":
     print("respuesta correcta")
+else:
+    print("fallaste")
+
+print("2) ¿quien fue el creador de python?")
+
+print("3) ¿quien fue el precursor de la creacion de gnu Linux?")
+
+print(
+    "4) ¿que lenguaje de programacion fue el precursor de la mayoria de los lenguajes de programacion?"
+)
+
+print("5) ¿con que lenguaje de programacion se hizo Netflix?")
